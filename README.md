@@ -16,7 +16,7 @@ My eyes are set on the fascinating intersection of data and technology. I'm gear
 
 Let's connect and learn from each other! Feel free to reach out:
 
-- 📧 Email: leonardoareiasrodovalho@gmail.com
-- 🔗 LinkedIn: (https://www.linkedin.com/in/leonardo-areias-b2a421202/)
+- 📧 Email: [Email]leonardoareiasrodovalho@gmail.com
+- 🔗 LinkedIn: [linkedin]https://www.linkedin.com/in/leonardo-areias-b2a421202/
 
 Join me on this exciting journey as I embrace the vast world of technology, one line of code at a time. 
