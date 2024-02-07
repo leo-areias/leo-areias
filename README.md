@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Leonardo, a passionate computer science student at [UniCEUB](https://www.uniceub.br/), on an exciting journey to unravel the wonders of technology. Currently immersed in the world of algorithms, data structures, and all things code.
+I'm Leonardo, a computer science student at [UniCEUB](https://www.uniceub.br/), on an exciting journey to unravel the wonders of technology. Currently immersed in the world of algorithms, data structures, and all things code.
 
 ## 💻 Studying Computer Science at UniCEUB
 
